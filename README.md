@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-<!--
+- 🔭 I’m currently working on cellular automata and digital life
+- 🌱 I’m currently learning web development
+    - HTML |---------
+    - CSS  |------
+    - JS   |--
+- 💬 Ask me about quantum physics!
+- ⚡ Fun fact: I can also read you tarots!
+  
+  <!--
 **Kaminoatowo/Kaminoatowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
