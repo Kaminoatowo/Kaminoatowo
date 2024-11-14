@@ -1,24 +1,10 @@
-### Hi there 👋
+### Hi, I'm Jacopo! 👋🦡
 
-- 🔭 I’m currently working on cellular automata and digital life
-- 🌱 I’m currently learning web development
-    - HTML |---------
-    - CSS  |------
-    - JS   |--
-- 💬 Ask me about quantum physics!
-- ⚡ Fun fact: I can also read you tarots!
-  
-  <!--
-**Kaminoatowo/Kaminoatowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computing enthusiast! I mostly build software to simulate physical phenomena, but I also like to build small websites and write scripts that can help automate tasks.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some facts about me and what I do:
+- 🔭 I’m a theoretical and computational physicist, I graduated from the University of Trento and spent 1 year at the University of Twente
+- 👨‍🏫 I think education is one of the most basic aspects of human life as humans are social beings and good education makes good societies
+- 🌱 I'm mostly acknowledged in quantum and statistical physics
+- ⚡ Other than science, my greatest passion is languages in general! (From my perspective, physics and coding are particular kinds of languages.)
+- 🌍 I can speak Italian 🇮🇹 (my mother language), English 🇬🇧, and some Dutch 🇳🇱 and I'm learning Japanese 🇯🇵
