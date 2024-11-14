@@ -8,3 +8,5 @@ Some facts about me and what I do:
 - 🌱 I'm mostly acknowledged in quantum and statistical physics
 - ⚡ Other than science, my greatest passion is languages in general! (From my perspective, physics and coding are particular kinds of languages.)
 - 🌍 I can speak Italian 🇮🇹 (my mother language), English 🇬🇧, and some Dutch 🇳🇱 and I'm learning Japanese 🇯🇵
+
+## Languages and tools
