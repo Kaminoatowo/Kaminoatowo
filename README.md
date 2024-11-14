@@ -1,4 +1,4 @@
-<img src="banner_badger.png" alt="banner">
+<img src="banner_larger.png" alt="banner">
 <!-- height="250px" width="500px" -->
 
 ### Hi, I'm Jacopo! 👋🦡
