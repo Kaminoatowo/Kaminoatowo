@@ -1,6 +1,8 @@
+<img src="banner_badger.png" style="display:inline-block" height="250px" width="500px" alt="banner">
+
 ### Hi, I'm Jacopo! 👋🦡
 
-I'm a computing enthusiast! I mostly build software to simulate physical phenomena, but I also like to build small websites and write scripts that can help automate tasks.
+I'm a computing enthusiast! I mostly build software to simulate physical phenomena, but I also like building small websites and writing scripts to help automate tasks.
 
 Some facts about me and what I do:
 - 🔭 I’m a theoretical and computational physicist, I graduated from the University of Trento and spent 1 year at the University of Twente
