@@ -12,4 +12,11 @@ Some facts about me and what I do:
 - ⚡ Other than science, my greatest passion is languages in general! (From my perspective, physics and coding are particular kinds of languages.)
 - 🌍 I can speak Italian 🇮🇹 (my mother language), English 🇬🇧, and some Dutch 🇳🇱 and I'm learning Japanese 🇯🇵
 
+## Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaminoatowo&count_private=true&theme=github_dark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaminoatowo&count_private=true&theme=github_dark&layout=donut&hide=Logos" />
+</div>
+
 ## Languages and tools
