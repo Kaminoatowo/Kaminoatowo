@@ -28,10 +28,11 @@ Some facts about me and what I do:
 </p>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="github" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="crewai" width="40" height="40"/>
 <img src="https://github.com/crewAIInc/crewAI/blob/main/docs/images/crewai_logo.png" alt="crewai" width="130" height="40"/>
+<img src="https://github.com/axolotl-ai-cloud/axolotl/blob/main/image/axolotl_symbol_digital_white.svg" alt="axolotl" width="40" height="40"/>
 </p>
 
 ## Stats
